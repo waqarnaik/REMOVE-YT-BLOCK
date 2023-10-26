@@ -17,7 +17,7 @@
 
 4. **Enable the Script & Enjoy :)**:<br>
 [Click Here to Automaitcally Install](https://github.com/waqarnaik/REMOVE-YT-BLOCK/raw/main/GROYTBLOCK.user.js).
-or [copy script from here >](https://github.com/waqarnaik/REMOVE-YT-BLOCK/blob/main/GROYTBLOCK.js)<br><br>
+or [copy script from here >](https://github.com/waqarnaik/REMOVE-YT-BLOCK/blob/339c5f1e83012d15cb56ddf6e50f4134be521c93/GROYTBLOCK.user.js)<br><br>
 ![](blobs/2.png)
 
 ## Important Notes
