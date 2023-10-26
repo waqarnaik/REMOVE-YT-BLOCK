@@ -34,14 +34,3 @@ No worries this script will removes ads in snap on YT.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## Tribute To Contributors: (Git peoples who contributed to create this scripts)
-
-- [AngelPuzzle](https://github.com/angelapuzzle)
-- [oSumAtrIX](https://github.com/oSumAtrIX)
-- [Albedo-13](https://github.com/Albedo-13)
-- [SleepingPig35](https://github.com/SleepingPig35)
-- [marjansimic](https://github.com/marjansimic)
-- [Pecunia201](https://github.com/Pecunia201)
-- [henryli17](https://github.com/henryli17)
-- [ClientNode](https://github.com/ClientNode)
-- [androgouws911](https://github.com/androgouws911)
