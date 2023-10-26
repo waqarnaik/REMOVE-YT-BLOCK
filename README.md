@@ -16,8 +16,8 @@
 ![](blobs/1.png)
 
 4. **Enable the Script & Enjoy :)**:<br>
-[Click Here to Automaitcally Install](https://github.com/waqarnaik/RemoveYTBlock/raw/main/GROYTBLOCK.user.js).
-or [copy script from here >](https://github.com/waqarnaik/RemoveYTBlock/blob/main/GROYTBLOCK.js)<br><br>
+[Click Here to Automaitcally Install](https://github.com/waqarnaik/REMOVE-YT-BLOCK/raw/main/GROYTBLOCK.user.js).
+or [copy script from here >](https://github.com/waqarnaik/REMOVE-YT-BLOCK/blob/main/GROYTBLOCK.js)<br><br>
 ![](blobs/2.png)
 
 ## Important Notes
