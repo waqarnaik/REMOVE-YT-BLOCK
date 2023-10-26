@@ -6,7 +6,7 @@
 // @updateURL    https://github.com/waqarnaik/REMOVE-YT-BLOCK/raw/main/GROYTBLOCK.user.js
 // @downloadURL  https://github.com/waqarnaik/REMOVE-YT-BLOCK/raw/main/GROYTBLOCK.user.js
 // @grant        none
-// @description  Get rid of YT block 
+// @description  Get Rid Of YT Block 
 // ==/UserScript== 
 
 
