@@ -3,8 +3,8 @@
 // @namespace    https://violentmonkey.github.io/
 // @version      1.0
 // @match        https://www.youtube.com/*
-// @updateURL    https://github.com/waqarnaik/RemoveYTBlock/raw/main/GROYTBLOCK.user.js
-// @downloadURL  https://github.com/waqarnaik/RemoveYTBlock/raw/main/GROYTBLOCK.user.js
+// @updateURL    https://github.com/waqarnaik/REMOVE-YT-BLOCK/raw/main/GROYTBLOCK.user.js
+// @downloadURL  https://github.com/waqarnaik/REMOVE-YT-BLOCK/raw/main/GROYTBLOCK.user.js
 // @grant        none
 // @description  Get rid of YT block 
 // ==/UserScript== 
